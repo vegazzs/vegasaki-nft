@@ -1,5 +1,7 @@
 # ⚔️VEGASAKI-SHOGUN NFT COLLECTION⚔️
 
+<img width="960" height="1088" alt="2" src="https://github.com/user-attachments/assets/3ce8e321-f49a-4f60-ab61-236935369db9" />
+
 ### About
  A professional-grade, gas-optimized ERC-721 NFT collection built with Foundry. This project demonstrates advanced Solidity patterns, including custom error handling, on-chain uniqueness guarantees, and automated testing.
 
