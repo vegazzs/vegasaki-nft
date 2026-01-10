@@ -1,9 +1,0 @@
-{
-  "name": "Vegasaki: Shogun Reborn",
-  "description": "The awakening of a legend. The Shogun is reborn to reclaim the Vegasaki empire.",
-  "image": "ipfs://bafybeiczrxeht3rhz54pbohdpyhckbesux2etvrym4ayd75f2mb2hsz2ia/0.png",
-  "attributes": [
-    { "trait_type": "Class", "value": "Shogun" },
-    { "trait_type": "State", "value": "Reborn" }
-  ]
-}

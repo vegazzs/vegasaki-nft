@@ -1,9 +1,0 @@
-{
-  "name": "Vegasaki: Shogun Eternal",
-  "description": "The final form. A spirit that can never be extinguished, watching over Vegasaki forever.",
-  "image": "ipfs://bafybeiczrxeht3rhz54pbohdpyhckbesux2etvrym4ayd75f2mb2hsz2ia/4.png",
-  "attributes": [
-    { "trait_type": "Class", "value": "Shogun" },
-    { "trait_type": "Power Level", "value": "Eternal" }
-  ]
-}

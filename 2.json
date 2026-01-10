@@ -1,9 +1,0 @@
-{
-  "name": "Vegasaki: Golden Shogun",
-  "description": "The symbol of ultimate wealth and power. Forged in the fires of the Vegasaki vault.",
-  "image": "ipfs://bafybeiczrxeht3rhz54pbohdpyhckbesux2etvrym4ayd75f2mb2hsz2ia/2.png",
-  "attributes": [
-    { "trait_type": "Class", "value": "Shogun" },
-    { "trait_type": "Variant", "value": "Golden" }
-  ]
-}
