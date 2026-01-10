@@ -1,0 +1,9 @@
+{
+  "name": "Vegasaki: Black Shogun",
+  "description": "Master of the night and shadows. The Black Shogun moves unseen through the neon streets.",
+  "image": "ipfs://bafybeiczrxeht3rhz54pbohdpyhckbesux2etvrym4ayd75f2mb2hsz2ia/1.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Shogun" },
+    { "trait_type": "Variant", "value": "Black" }
+  ]
+}

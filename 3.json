@@ -1,0 +1,9 @@
+{
+  "name": "Vegasaki: Shogun Cyborg",
+  "description": "Enhanced by the technology of the future. Part machine, full warrior.",
+  "image": "ipfs://bafybeiczrxeht3rhz54pbohdpyhckbesux2etvrym4ayd75f2mb2hsz2ia/3.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Shogun" },
+    { "trait_type": "Type", "value": "Cyborg" }
+  ]
+}
